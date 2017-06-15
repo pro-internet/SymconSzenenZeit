@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"de": { 
+			"Number of Scenes": "Anzahl der Szenen",
+			"Scenes": "Szenen",
+			"Cycle through Scenes": "Zeitschaltung der Szenen",
+			"Loop the Cycle": "Zeitschaltung loopen"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "id": "{30aa0d57-1f3f-4592-8534-874baf659f5c}",
+    "name": "SzenenSteuerungZeit",
+    "type": 3,
+    "vendor": "prointernet",
+    "aliases": 
+    [
+        "SzenenSteuerungZeit"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SZS"
+}
